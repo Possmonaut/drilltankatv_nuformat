@@ -1,0 +1,1 @@
+depth = target.visualSpriteTank.depth -1;

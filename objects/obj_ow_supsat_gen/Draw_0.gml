@@ -1,0 +1,1 @@
+draw_sprite_ext(sp_block_supsat,ind,x+vibOFST+6,y,size,size,0,c_white,1);

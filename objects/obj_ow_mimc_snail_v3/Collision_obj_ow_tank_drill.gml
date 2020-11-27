@@ -1,0 +1,1 @@
+//if(obj_ow_player_tank.velocity > 0.1){ obj_ow_player_tank.velocity = 0.10;}

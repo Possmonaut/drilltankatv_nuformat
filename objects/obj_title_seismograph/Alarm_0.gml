@@ -1,0 +1,1 @@
+audio_sound_gain(openTheme, 0.5,10000);

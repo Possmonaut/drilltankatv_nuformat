@@ -1,0 +1,42 @@
+{
+  "spriteId": {
+    "name": "sp_iso_test2",
+    "path": "sprites/sp_iso_test2/sp_iso_test2.yy",
+  },
+  "solid": false,
+  "visible": false,
+  "spriteMaskId": {
+    "name": "sp_default_24",
+    "path": "sprites/sp_default_24/sp_default_24.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_ow_rock_parent",
+    "path": "objects/obj_ow_rock_parent/obj_ow_rock_parent.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_ow_ore_vein","path":"objects/obj_ow_ore_vein/obj_ow_ore_vein.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "blocks",
+    "path": "folders/Objects/new_Core/blocks.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_ow_ore_vein",
+  "tags": [],
+  "resourceType": "GMObject",
+}

@@ -1,0 +1,1 @@
+ds_list_delete(global.activeBlocks, myPos);

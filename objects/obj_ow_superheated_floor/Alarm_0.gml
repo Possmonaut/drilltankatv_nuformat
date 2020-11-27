@@ -1,0 +1,1 @@
+tilemap_set_at_pixel(bg_gravel,0,x,y,);
